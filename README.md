@@ -67,14 +67,6 @@ Projetos responsivos focados em experiência do usuário.
 
 ---
 
-## 📊 GitHub Stats
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Luc-coder&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luc-coder&layout=compact&theme=radical)
-
----
-
 ## 🎯 Objetivo
 
 Atuar como Desenvolvedor Full-Stack, contribuindo na construção de sistemas eficientes, escaláveis e bem estruturados.
