@@ -1,84 +1,80 @@
 # 🚀 Lucas Marques Russi
 
-💻 Desenvolvedor **Full-Stack** com experiência prática em desenvolvimento de sistemas web reais.  
-Atualmente atuando como **Programador PHP**, criando soluções funcionais, escaláveis e orientadas a negócio.
+💻 **Full-Stack Developer** with hands-on experience building real-world web applications.  
+Currently working as a **PHP Developer**, building functional, scalable, and business-oriented solutions.
 
-📍 São Paulo - SP  
-📚 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+📍 São Paulo, Brazil  
+📚 Degree in Systems Analysis and Development  
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor full-stack com foco em back-end, mas com domínio completo do fluxo web — do banco de dados ao front.
+I'm a Full-Stack Developer with a back-end focus and a solid understanding of the entire web development workflow — from databases to the front end.
 
-Atuo diretamente com clientes, levantamento de requisitos e entrega de soluções reais em produção.  
-Curto transformar problema de negócio em sistema funcional 🚀
+I work directly with clients, gather requirements, and deliver real-world solutions for production environments.  
+I enjoy turning business challenges into functional software solutions. 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Back-end
+### 🔹 Back-End
 - PHP
 - Node.js
 - Java
 - SQL
-- Banco de Dados Relacional
+- Relational Databases
 
-### 🔹 Front-end
+### 🔹 Front-End
 - HTML5
 - CSS3
 - JavaScript
 
-### 🔹 Ferramentas
+### 🔹 Tools
 - Git & GitHub
-- Excel (manipulação e estruturação de dados)
+- Excel (data manipulation and structuring)
 - CorelDRAW
 - Canva
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-### 💻 Programador PHP — DMV Creative (03/2024 - Atual)
+### 💻 PHP Developer — DMV Creative (Mar 2024 – Present)
 
-- Desenvolvimento completo de sistema de criação e gerenciamento de cardápios online
-- Estruturação e manipulação de dados para impressão via Excel
-- Geração de recibos e controle de alterações em sistemas internos
-- Ajustes de layout e design para materiais digitais
-- Atendimento direto a demandas e requisitos de clientes
-
----
-
-## 🚀 Projetos em Destaque
-
-📌 CRM Customer Relationship Management  
-Sistema de gerenciamento de clientes com foco em organização e produtividade.
-
-📌 Economic Indicators App  
-Aplicação para visualização de indicadores econômicos.
-
-📌 Todo List  
-Aplicação web para gerenciamento de tarefas.
-
-📌 Landing Pages & Sites Institucionais  
-Projetos responsivos focados em experiência do usuário.
+- Developed and maintained an online menu creation and management system.
+- Structured and manipulated data for printing using Excel.
+- Generated receipts and managed change tracking in internal systems.
+- Adjusted layouts and designed digital materials.
+- Worked directly with clients to understand requirements and deliver solutions.
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Featured Projects
 
-Atuar como Desenvolvedor Full-Stack, contribuindo na construção de sistemas eficientes, escaláveis e bem estruturados.
+📌 **CRM — Customer Relationship Management**  
+A customer management system focused on organization and productivity.
+
+📌 **Economic Indicators App**  
+An application for visualizing economic indicators.
+
+📌 **Todo List**  
+A web application for task management.
+
+📌 **Landing Pages & Corporate Websites**  
+Responsive projects focused on user experience.
 
 ---
 
-## 📫 Contato
+## 🎯 Career Objective
 
-📧 lucasmarquesrussi8@gmail.com  
+To work as a Full-Stack Developer, contributing to the development of efficient, scalable, and well-structured software systems.
+
+---
+
+## 📫 Contact
+
+📧 Email: lucasmarquesrussi8@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/lucas-marques-russi  
 🐙 GitHub: https://github.com/Luc-coder  
-
----
-
-> “Código limpo, sistema funcional e problema resolvido.” 🔥
