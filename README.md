@@ -41,7 +41,7 @@ I enjoy turning business challenges into functional software solutions. 🚀
 
 ## 💼 Professional Experience
 
-### 💻 PHP Developer — DMV Creative (Mar 2024 – Present)
+### 💻 PHP Developer — DMV Creative (Mar 2024 – Jul 2026)
 
 - Developed and maintained an online menu creation and management system.
 - Structured and manipulated data for printing using Excel.
